@@ -1,0 +1,34 @@
+
+█████████████████████████████████████████████████████
+█▄─▄─▀█─▄▄─█─▄─▄─███▄─▄─▀██▀▄─██─▄▄▄▄█▄─▄█─▄▄▄─█─▄▄─█
+██─▄─▀█─██─███─██████─▄─▀██─▀─██▄▄▄▄─██─██─███▀█─██─█
+▀▄▄▄▄▀▀▄▄▄▄▀▀▄▄▄▀▀▀▀▄▄▄▄▀▀▄▄▀▄▄▀▄▄▄▄▄▀▄▄▄▀▄▄▄▄▄▀▄▄▄▄▀
+bot basico que soporta varios comandos para tu grupo de discord.
+
+Instalación
+Ejecuta el siguiente comando para instalar las dependencias necesarias:
+npm install discord.js colors
+Configura el archivo de configuración (config.json) con tus credenciales de Discord.
+Uso
+Inicia el bot ejecutando el comando:
+node node .
+El bot se conectará a Discord y estará listo para funcionar.
+Invita al bot a tu servidor de Discord utilizando el enlace de invitación proporcionado.
+
+Contribución
+¡Agradecemos las contribuciones a nuestro proyecto!
+
+Este proyecto utiliza las siguientes librerías y recursos:
+
+discord.js
+colors
+
+Creado por Zelensky para la comunidad de discord.
+
+Licencia
+Este proyecto está bajo la licencia de Hypethreads.
+
+Contacto
+Puedes contactarnos en nuestra tienda de Discord https://discord.gg/hypethreads.
+
+programador/dev sky zelensky
