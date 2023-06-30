@@ -1,4 +1,4 @@
 {
     "token": "Token de tu bot",
-    "client": "ID de la aplicacion del cliente de tu bot"
+    "clientId": "ID de la aplicacion del cliente de tu bot"
 }
