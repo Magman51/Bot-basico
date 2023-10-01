@@ -7,7 +7,7 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "nebularky",
+  "author": "zelensky_16",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
